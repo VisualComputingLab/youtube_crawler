@@ -1,5 +1,5 @@
 # youtube_crawler
-A java web crawler for the ‘YouTube’ video sharing platform API
+A Netbeans project,  java web crawler for the ‘YouTube’ video sharing platform API
 
 ##About this project 
 
